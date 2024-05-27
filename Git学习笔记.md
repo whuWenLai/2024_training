@@ -3,9 +3,9 @@
 工作区、暂存区、本地仓库
 ![alt text](/图片/RO{]E~}{EZFZB0H%25RFZ5PUB.png)
 git reset的三种模式
-![alt text](/图片/<N{E75(0QZ_BQIUORB8541RU.png>)
+![alt text](/图片/N{E75\(0QZ_BQIUORB8541RU.png)
 删除文件
-![alt text](/图片/<~L68}VJE8X%A(D11GANO@P6.png>)
+![alt text](/图片/~L68}VJE8X%25A\(D11GANO@P6.png)
 使用.gitignore忽略文件
 ![alt text](/图片/image.png)
 在SSH配置后可用 git clone关联远程仓库
@@ -13,7 +13,8 @@ git reset的三种模式
 ## 2.分支
 ### (1)merger
 * 1.git branch dev 和 git switch/checkout dev 实现创建分支和切换分支
-* 2.图形化如下
+* 2.图形化如下:
+
   ![alt text](/图片/image-2.png)
 * 3.合并 在main分支合并dev分支 git merge dev(产生冲突后需手动解决冲突，选择最终结果)
  ![alt text](/图片/image-3.png)
@@ -26,4 +27,4 @@ git reset的三种模式
 ### （3）优缺点和区别
 ![alt text](/图片/3HC701@@E}Z_6O1DADPXTXJ.png)
 
-![alt text](/图片/<HOE[OEQC{A7N1_N8]6Q0Z(8.png>)
+![alt text](/图片/HOE[OEQC{A7N1_N8]6Q0Z\(8.png)
