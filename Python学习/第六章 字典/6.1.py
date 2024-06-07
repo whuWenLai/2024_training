@@ -1,0 +1,10 @@
+user={
+    "first_name":'wen',
+    "last_name":"lai",
+    "age":23,
+    "city":"whuhan"
+}
+print(user["first_name"])
+print(user["last_name"])
+print(user["age"])
+print(user["city"])
